@@ -1,13 +1,13 @@
 import HeroFooter from "../../components/Footer/HeroFooter";
 import HeroBanner from "../../components/HomePage/HeroBanner";
 import Footer from "../../components/Footer/Footer";
-import ElevatorInstallationOperation from "../../components/ServicePage/ElevatorInstallationOperation";
+import CaiTaoSuaChuaThangMay from "../../components/ServicePage/CaiTaoSuaChuaThangMay";
 
 const CaiTaoSuaChuaThangMayPage= () => {
   return (
     <div>
       <HeroBanner />
-      <ElevatorInstallationOperation/>
+      <CaiTaoSuaChuaThangMay/>
         <HeroFooter />
       <Footer />
     </div>
