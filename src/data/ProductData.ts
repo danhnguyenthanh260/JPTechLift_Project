@@ -1,9 +1,9 @@
 import homeLiftHeroImg from "../assets/images/productPage_img/home_lift/hero.png";
 import passengerLiftHeroImg from "../assets/images/productPage_img/passenger_elevator/hero1.png";
-import escalatorHeroImg from "../assets/images/productPage_img/escalator&moving_walkway/hero3.png";
+import escalatorHeroImg from "../assets/images/productPage_img/escalator_moving_walkway/hero3.png";
 import freightHeroImg from "../assets/images/productPage_img/freight_elevator/hero4.png";
 import dHeroImg from "../assets/images/productPage_img/dumbwaiter/hero5.png";
-import hospitalHeroImg from "../assets/images/productPage_img/hospital _elevator/hero6.png";
+import hospitalHeroImg from "../assets/images/productPage_img/hospital_elevator/hero6.png";
 import panaramicHeroImg from "../assets/images/productPage_img/panoramic_elevator/hero7.png";
 // gallery section
 import homelift_realGallery1 from "../assets/images/productPage_img/home_lift/home_realGallery1.jpg";
@@ -21,11 +21,11 @@ import passenger_realGallery2 from "../assets/images/productPage_img/passenger_e
 import passenger_realGallery3 from "../assets/images/productPage_img/passenger_elevator/passenger_realGallery3.png";
 import passenger_realGallery4 from "../assets/images/productPage_img/passenger_elevator/passenger_realGallery4.jpg";
 import passenger_realGallery5 from "../assets/images/productPage_img/passenger_elevator/passenger_realGallery5.jpg";
-import hospital_realGallery1 from "../assets/images/productPage_img/hospital _elevator/h_realGallery1.png";
-import hospital_realGallery2 from "../assets/images/productPage_img/hospital _elevator/h_realGallery2.png";
-import hospital_realGallery3 from "../assets/images/productPage_img/hospital _elevator/h_realGallery3.png";
-import hospital_realGallery4 from "../assets/images/productPage_img/hospital _elevator/h_realGallery4.png";
-import hospital_realGallery5 from "../assets/images/productPage_img/hospital _elevator/hospital_carousel1.png";
+import hospital_realGallery1 from "../assets/images/productPage_img/hospital_elevator/h_realGallery1.png";
+import hospital_realGallery2 from "../assets/images/productPage_img/hospital_elevator/h_realGallery2.png";
+import hospital_realGallery3 from "../assets/images/productPage_img/hospital_elevator/h_realGallery3.png";
+import hospital_realGallery4 from "../assets/images/productPage_img/hospital_elevator/h_realGallery4.png";
+import hospital_realGallery5 from "../assets/images/productPage_img/hospital_elevator/hospital_carousel1.png";
 import panoramic_realGallery1 from "../assets/images/productPage_img/panoramic_elevator/p_realGallery1.png";
 import panoramic_realGallery2 from "../assets/images/productPage_img/panoramic_elevator/p_realGallery2.png";
 import panoramic_realGallery3 from "../assets/images/productPage_img/panoramic_elevator/p_realGallery3.png";
@@ -47,18 +47,18 @@ import homelift_carousel3 from "../assets/images/productPage_img/home_lift/homep
 import passenger_carousel1 from "../assets/images/productPage_img/passenger_elevator/passenger_carousel1.png";
 import passenger_carousel2 from "../assets/images/productPage_img/passenger_elevator/passenger_carousel2.jpg";
 import passenger_carousel3 from "../assets/images/productPage_img/passenger_elevator/passenger_carousel3.png";
-import es_carousel1 from "../assets/images/productPage_img/escalator&moving_walkway/esc_carousel1.png";
-import es_carousel2 from "../assets/images/productPage_img/escalator&moving_walkway/esc_carousel2.png";
-import es_carousel3 from "../assets/images/productPage_img/escalator&moving_walkway/esc_carousel3.png";
+import es_carousel1 from "../assets/images/productPage_img/escalator_moving_walkway/esc_carousel1.png";
+import es_carousel2 from "../assets/images/productPage_img/escalator_moving_walkway/esc_carousel2.png";
+import es_carousel3 from "../assets/images/productPage_img/escalator_moving_walkway/esc_carousel3.png";
 import fr_carousel1 from "../assets/images/productPage_img/freight_elevator/freight_carousel1.png";
 import fr_carousel2 from "../assets/images/productPage_img/freight_elevator/freight_carousel2.png";
 import fr_carousel3 from "../assets/images/productPage_img/freight_elevator/freight_carousel3.png";
 import d_carousel1 from "../assets/images/productPage_img/dumbwaiter/d_carousel1.png";
 import d_carousel2 from "../assets/images/productPage_img/dumbwaiter/d_carousel2.png";
 import d_carousel3 from "../assets/images/productPage_img/dumbwaiter/d_carousel3.png";
-import h_carousel1 from "../assets/images/productPage_img/hospital _elevator/hospital_carousel1.png";
-import h_carousel2 from "../assets/images/productPage_img/hospital _elevator/hospital_carousel2.png";
-import h_carousel3 from "../assets/images/productPage_img/hospital _elevator/hospital_carousel3.png";
+import h_carousel1 from "../assets/images/productPage_img/hospital_elevator/hospital_carousel1.png";
+import h_carousel2 from "../assets/images/productPage_img/hospital_elevator/hospital_carousel2.png";
+import h_carousel3 from "../assets/images/productPage_img/hospital_elevator/hospital_carousel3.png";
 import p_carousel1 from "../assets/images/productPage_img/panoramic_elevator/panoramic_carousel1.png";
 import p_carousel2 from "../assets/images/productPage_img/panoramic_elevator/panoramic_carousel2.png";
 import p_carousel3 from "../assets/images/productPage_img/panoramic_elevator/panoramic_carousel3.png";
@@ -68,7 +68,7 @@ import install from "../assets/images/productPage_img/home_lift/install_content_
 import blueprint from "../assets/images/productPage_img/home_lift/blueprint1.png";
 import d_blueprint from "../assets/images/productPage_img/dumbwaiter/d_blueprint.png";
 import passenger_blueprint from "../assets/images/productPage_img/passenger_elevator/passenger_blueprint.png";
-import h_blueprint from "../assets/images/productPage_img/hospital _elevator/blueprintOfHospital_Pasenger.png";
+import h_blueprint from "../assets/images/productPage_img/hospital_elevator/blueprintOfHospital_Pasenger.png";
 
 export interface Product {
   seo?: {
